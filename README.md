@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tusharpangare
-- 👀 I’m interested in Myself
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me tusharpangare99@gmail.com
