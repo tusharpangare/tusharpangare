@@ -34,11 +34,14 @@
 - :zap: In my free time, I solve problems on Codechef and watch tech videos.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-pangare-1300891b9/)
-
-
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&&theme=synthwave&show_icons=true)
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpangare&layout=default)](https://github.com/tusharpangare)
+
+<!-- ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&&theme=synthwave&show_icons=true) -->
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tusharpangare&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tusharpangare&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
