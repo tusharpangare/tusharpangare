@@ -1,11 +1,9 @@
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
-- 👋 Hi, I’m @tusharpangare
+- 👋 Hi there, I’m Tushar Pangare
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me tusharpangare99@gmail.com
-- 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&show_icons=true)
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&&theme=synthwave&show_icons=true)
 
 
 <!---
