@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me tusharpangare99@gmail.com
-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+- 
+![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&show_icons=true)
 
 
 <!---
