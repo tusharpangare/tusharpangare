@@ -23,6 +23,10 @@
   <a href="https://leetcode.com/tusharpangare/">
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=chocolate" alt="Twitter Badge"/>
   </a>
+  <a href="mailto:tusharpangare99@gmail.com">
+    <img src="https://img.shields.io/badge/mail-LightSalmon?style=for-the-badge&logo=gmail&logoColor=#F4A460" alt="Twitter Badge"/>
+  </a>
+  
 </div>
 
 ---
