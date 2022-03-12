@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Django
 - 📫 How to reach me tusharpangare99@gmail.com
+
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&&theme=synthwave&show_icons=true)
 
 
