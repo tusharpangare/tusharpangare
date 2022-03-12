@@ -17,9 +17,6 @@
   <a href="https://tusharpangare.blogspot.com/">
     <img src="https://img.shields.io/badge/Blogger-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="blogger Badge"/>
   </a>
-  <a href="https://twitter.com/46Comp">
-    <img src="https://img.shields.io/badge/Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
   <a href="https://leetcode.com/tusharpangare/">
     <img src="https://img.shields.io/badge/leetcode-grey?style=for-the-badge&logo=leetcode&logoColor=chocolate" alt="Twitter Badge"/>
   </a>
