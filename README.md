@@ -1,4 +1,5 @@
-<div id="header" align="center">
+
+<h1 align="center">Hi 👋, I'm Tushar Pangare</h1><div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="left">
@@ -26,6 +27,7 @@
   
 </div>
 
+
 ---
 ### :woman_technologist: About Me: 
 - :telescope: I’m working as a Software Engineer Intern and contributing to frontend and backend.
@@ -37,7 +39,9 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-pangare-1300891b9/)
 ---
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpangare" alt="tusharpangare" /></a> </p>
 <!-- ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&&theme=synthwave&show_icons=true) -->
+
 ### :fire: My Stats :
 <!-- ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&show_icons=true&theme=radical) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tusharpangare&theme=dark&background=000000)](https://git.io/streak-stats)
