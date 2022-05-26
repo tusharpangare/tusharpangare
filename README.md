@@ -39,9 +39,6 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-pangare-1300891b9/)
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpangare" alt="tusharpangare" /></a> </p>
-<!-- ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&&theme=synthwave&show_icons=true) -->
-
 ### :fire: My Stats :
 <!-- ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpangare&show_icons=true&theme=radical) -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tusharpangare&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -65,4 +62,5 @@
 </div>
 
 ---
+### 🦅 Contribution Graph :
 [![Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tusharpangare&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
