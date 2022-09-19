@@ -30,7 +30,7 @@
 
 ---
 ### :woman_technologist: About Me: 
-- :telescope: I’m working as a Software Engineer Intern and contributing to frontend and backend.
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend.
 
 - :seedling: Always learning something new.
 
