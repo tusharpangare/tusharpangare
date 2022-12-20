@@ -63,4 +63,5 @@
 
 ---
 ### 🦅 Contribution Graph :
-[![Tushar's github activity graph](https://activity-graph.herokuapp.com/graph?username=tusharpangare&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tushar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusharpangare&theme=vue)](https://github.com/tusharpangare/github-readme-activity-graph)
+
