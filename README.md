@@ -65,5 +65,5 @@
 
 ---
 ### 🦅 Contribution Graph :
-[![Tushar's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tusharpangare&theme=vue)](https://github.com/tusharpangare/github-readme-activity-graph)
+[![Tushar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tusharpangare&theme=github-compact)](https://github.com/tusharpangare/github-readme-activity-graph)
 
